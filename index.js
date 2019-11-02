@@ -1,4 +1,4 @@
-const express = require('express')
+//stock market portfolio app
 const app = express();
 var exphbs  = require('express-handlebars');
 const path = require('path');
